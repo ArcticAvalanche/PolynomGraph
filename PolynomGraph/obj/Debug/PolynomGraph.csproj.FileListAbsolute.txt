@@ -1,0 +1,10 @@
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\bin\Debug\PolynomGraph.exe.config
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\bin\Debug\PolynomGraph.exe
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\bin\Debug\PolynomGraph.pdb
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\obj\Debug\PolynomGraph.csprojResolveAssemblyReference.cache
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\obj\Debug\PolynomGraph.Properties.Resources.resources
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\obj\Debug\PolynomGraph.csproj.GenerateResource.cache
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\obj\Debug\PolynomGraph.csproj.CoreCompileInputs.cache
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\obj\Debug\PolynomGraph.exe
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\obj\Debug\PolynomGraph.pdb
+C:\Users\gamao\source\repos\PolynomGraph\PolynomGraph\obj\Debug\PolynomGraph.MainForm.resources
